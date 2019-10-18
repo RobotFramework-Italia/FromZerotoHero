@@ -17,12 +17,13 @@
 [Gherkin](/gherkinExample.robot)
 
 
-## Author
+## Authors
 
-👤 **RobotFramework Italia Meetup**
+👤 **RobotFramework Italia**
 
-* Github: [@RobotFramework-Italia](https://github.com/RobotFramework-Italia)
-
+* Luca Giove: [@lucagiove](https://github.com/lucagiove)
+* Andrea Gubellini: [@andreagubellini](https://github.com/andreagubellini)
+* Angelo Andrea Gabriele Caovilla: [@acaovilla](https://github.com/acaovilla)
 
 ## Show your support
 
