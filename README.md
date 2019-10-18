@@ -2,17 +2,19 @@
 
 > Repo relativa al meetup RobotFramework https://www.meetup.com/Robot-Framework-Milano/events/265471320/
 
+## Threads
+
+💎 **Gherkin syntax prefixes**
+
+[Gherkin](/gherkinExample.robot)
+
+
 ## Author
 
 👤 **RobotFramework Italia Meetup**
 
 * Github: [@RobotFramework-Italia](https://github.com/RobotFramework-Italia)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues).
 
 ## Show your support
 
