@@ -30,6 +30,11 @@
 
 Give a ⭐️ if this project helped you!
 
+## Usefull Links
+[Selenium Library]()
+[Chrome Driver]()
+[Install On Linux]()
+[Install On Windows]()
 
 ## 📝 License
 
