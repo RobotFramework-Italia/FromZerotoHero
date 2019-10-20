@@ -22,7 +22,7 @@
 
 👤 **RobotFramework Italia**
 
-* Luca Giove: [@lucagiove](https://github.com/lucagiove)
+* Luca Giovenzana: [@lucagiove](https://github.com/lucagiove)
 * Andrea Gubellini: [@andreagubellini](https://github.com/andreagubellini)
 * Angelo Andrea Gabriele Caovilla: [@acaovilla](https://github.com/acaovilla)
 
