@@ -15,7 +15,7 @@
 
 💎 **Gherkin syntax prefixes**
 
-[Gherkin](/gherkinExample.robot)
+[Gherkin](/GWT)
 
 
 ## Authors
