@@ -35,6 +35,7 @@ Give a ⭐️ if this project helped you!
 * [Chrome Driver](http://www.automationtestinghub.com/download-chrome-driver/)
 * [Install On Linux](https://www.tutorialspoint.com/robot_framework/robot_framework_unix_linux_installation.htm)
 * [Install On Windows](https://www.swtestacademy.com/getting-started-robotframework/)
+* [How to Write Good Test Cases](https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst)
 
 ## 📝 License
 
