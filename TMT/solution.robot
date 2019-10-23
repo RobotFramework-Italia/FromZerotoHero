@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation  This test suite test Chili Login System.
-Import   SeleniumLibrary
+
+Library         SeleniumLibrary
 
 Test Setup   Open Browser    ${LOGIN_URL}    ${BROWSER}
 
@@ -14,8 +15,16 @@ Test Valid Chili Login
     Submit Credential  username_prova@yopmail.com    robotframeworkhero
     Confirm Login
     Check Homepage
+    [Teardown]  Close Browser
 
-*** Keyword ***
+Test Invalid Chili Login
+	[Tags] 	 Smoke
+    Submit Credential  username_assente@yopmail.com    robotframeworkhero
+    Confirm Login
+    Check Login Error
+    [Teardown]  Close Browser
+
+*** Keywords ***
 
 Submit Credential
     [Arguments]  ${username}   ${password}
@@ -29,4 +38,7 @@ Confirm Login
     Click Button                        submitLogin-btn
 
 Check Homepage
-    Wait Until Page Contains Element    //div[@class='divContainerPage  page-homepage ']
+    Wait Until Page Contains Element    //div[@class='page-homepage']
+
+Check Login Error
+    Wait Until Page Contains Element    errorMessage
