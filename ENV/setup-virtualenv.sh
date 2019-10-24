@@ -4,30 +4,10 @@
 # /usr/lib/python3.6/site-packages
 
 # User Path
-# ~/.local/lib/python3.6$ cd site-packages/
+# ~/.local/lib/python3.6
 
 # Virtual Env Path
-# ??
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# .venv
 
 # python3
 # sudo apt-get install python3-venv
@@ -55,9 +35,9 @@
 
 # || Docker
 
-
 # Chromedriver
 
 # wget https://chromedriver.storage.googleapis.com/78.0.3904.70/chromedriver_linux64.zip
+# unzip chromedriver_linux64.zip
 # sudo mv chromedriver /usr/local/bin
 
